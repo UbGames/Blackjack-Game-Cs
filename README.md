@@ -1,4 +1,7 @@
 # Blackjack-Game-Cs
+
+![BlackJackCs450](https://github.com/user-attachments/assets/92c5bfba-5d17-4ef1-af02-f0fc4b501576)
+
 The Blackjack Game C# is a modified version of Card Game Starter Kit - VCS.
 
 The following features have been modified or added:
